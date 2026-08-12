@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1",
   "required": false,
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/unflxtd/control-group-updates/releases/latest/download/control-group.apk",
   "changes": "Первый релиз с поддержкой обновлений"
 }
